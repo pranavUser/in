@@ -148,52 +148,6 @@ label a {
 }
 
 
-/* .sec1 {
-    height: calc(100vh - 70px);
-    width: 100vw;
-    position: relative;
-
-    h1 {
-        font-family: 'font1';
-        font-size: 13rem;
-        margin: 0;
-        padding: 80px 0 0 50px;
-        line-height: 13rem;
-        letter-spacing: 4px;
-    }
-    .img{
-        height: 200px;
-        width: 500px;
-        margin-left: 10px;
-        border-radius: 20px;
-        background: url("Untitled\ Project.jpg");
-        background-size:cover;
-        background-repeat: no-repeat;
-        opacity: .6;
-        background-position: 28px -100px;
-    }
-    h3{
-        position: absolute;
-        right: 50px;
-        bottom: -50px;
-        text-align-last: right;
-        font-family: 'font1';
-        font-size: 6.4rem;
-        line-height: 5rem;
-        letter-spacing: 2px;
-    }
-    
-    h3 span{
-        position: absolute;
-        right: 5px;
-    }
-
-    h1:hover {
-        opacity: .7;
-    }
-
-} */
-
 
 .sec1 {
     height: calc(85vh - 75px);
@@ -320,6 +274,7 @@ p span {
     span {
         animation-range-start: entry 30vh;
         animation-range-end: entry 200vh;
+        font-size:2.2rem;
     }
 
     .content{
